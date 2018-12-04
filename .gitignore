@@ -1,0 +1,9 @@
+*.o
+*.swp
+/Makefile
+/config.h
+/config.log
+/config.status
+src/Makefile
+src/espresso
+stamp-h
